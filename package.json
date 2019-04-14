@@ -1,0 +1,34 @@
+{
+  "name": "salas-frontend-v8",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fullcalendar": "^3.9.0",
+    "fullcalendar-scheduler": "^1.9.4",
+    "roboto-fontface": "^0.10.0",
+    "vue": "^2.5.21",
+    "vue-full-calendar": "^2.7.0",
+    "vue-router": "^3.0.1",
+    "vuelidate": "^0.7.4",
+    "vuetify": "^1.3.0",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.5.4"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3",
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vue-cli-plugin-vuetify": "^0.4.6",
+    "vue-template-compiler": "^2.5.21",
+    "vuetify-loader": "^1.0.5"
+  }
+}
